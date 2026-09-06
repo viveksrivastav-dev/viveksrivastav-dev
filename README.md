@@ -42,7 +42,6 @@ I'm a .NET Developer passionate about building reliable, scalable and user-frien
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -85,12 +84,5 @@ Developed and customized business websites and WooCommerce-based websites.
 
 ---
 
-### ⚡ Fun Fact
-
-> I believe the best way to learn development is to build something real. 🚀
-
----
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viveksrivastav-dev&label=Profile%20Views&style=flat-square)
