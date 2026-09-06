@@ -20,7 +20,7 @@ I'm a .NET Developer passionate about building reliable, scalable and user-frien
 - **Database:** SQL Server, MySQL, SQLite
 - **ORM:** Entity Framework Core
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Architecture:** Clean Architecture, 3-Layer Architecture, CQRS & MediatR
+- **Architecture:** Clean Architecture, CQRS & MediatR
 - **Tools:** Git, GitHub, Docker
 - **CMS:** WordPress, Elementor
 - **Other:** PHP, REST APIs
@@ -81,12 +81,5 @@ Built CRUD applications using ASP.NET Core MVC, Entity Framework Core and SQL Se
 🔹 **WordPress Projects**  
 Developed and customized business websites and WooCommerce-based websites.
 
----
-
-### ⚡ Fun Fact
-
-> I believe the best way to learn development is to build something real. 🚀
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=viveksrivastav-dev&style=flat-square)
