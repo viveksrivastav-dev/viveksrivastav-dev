@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vivek Kumar Srivastav
 
-### 👨‍💻 .NET Developer | C# | ASP.NET Core | Web API
+### 👨‍💻 C# | .NET Developer  
 
 I'm a .NET Developer passionate about building reliable, scalable and user-friendly web applications. I enjoy learning new technologies and improving my development skills by working on real-world projects.
 
