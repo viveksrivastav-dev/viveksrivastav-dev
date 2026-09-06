@@ -60,7 +60,9 @@ I'm a .NET Developer passionate about building reliable, scalable and user-frien
 
 ![](https://streak-stats.demolab.com/?user=viveksrivastav-dev&theme=dark&hide_border=false)
 
+<!--
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=viveksrivastav-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
 
 ---
 
@@ -68,8 +70,7 @@ I'm a .NET Developer passionate about building reliable, scalable and user-frien
 
 ![](https://github-profile-trophy.vercel.app/?username=viveksrivastav-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
+<!--
 ## 🚀 Featured Projects
 
 🔹 **Task Management System API**  
@@ -80,6 +81,16 @@ Built CRUD applications using ASP.NET Core MVC, Entity Framework Core and SQL Se
 
 🔹 **WordPress Projects**  
 Developed and customized business websites and WooCommerce-based websites.
+-->
 
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=viveksrivastav-dev&style=flat-square)
+### ⚡ Fun Fact
+
+> I believe the best way to learn development is to build something real. 🚀
+
+---
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=viveksrivastav-dev&label=Profile%20Views&style=flat-square)
