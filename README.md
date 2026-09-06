@@ -17,7 +17,7 @@ I'm a .NET Developer passionate about building reliable, scalable and user-frien
 ## 🛠️ What I Work With
 
 - **Backend:** C#, .NET, ASP.NET Core, MVC, Web API
-- **Database:** SQL Server, MySQL, SQLite
+- **Database:** SQL Server, MySQL
 - **ORM:** Entity Framework Core
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 - **Architecture:** Clean Architecture, CQRS & MediatR
